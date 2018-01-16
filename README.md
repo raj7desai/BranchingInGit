@@ -1,5 +1,1 @@
-# BranchingInGit
-WTF is branching?
-
-
-I am Master
+Hey! I am a shithole so I deleted all of the Readme
